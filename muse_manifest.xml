@@ -1,0 +1,191 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kenys-world.github.io" resolutions="1x,2x" timestamp="1611334367385">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4221071289" ref="index"/>
+    <file name="kidnap.css" crc="34589356" ref="kidnap"/>
+    <file name="hotdogman2.css" crc="79322870" ref="hotdogman2"/>
+    <file name="hotdogman.css" crc="149245524" ref="hotdogman"/>
+    <file name="self-introduction.css" crc="139006441" ref="self-introduction"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:self-introduction:hotdogman:kidnap:hotdogman2"/>
+    <file name="museutils.js" crc="3803043152" ref="index:self-introduction:hotdogman:kidnap:hotdogman2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:self-introduction:hotdogman:kidnap:hotdogman2"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:self-introduction:hotdogman:kidnap:hotdogman2"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:self-introduction:hotdogman:kidnap:hotdogman2"/>
+    <file name="require.js" crc="4157109226" ref="index:self-introduction:hotdogman:kidnap:hotdogman2"/>
+  </folder>
+  <folder name="images">
+    <file name="貼上的-svg-282661x272.svg" crc="485141543" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 282661x272_poster_.png" crc="163345414" ref="index"/>
+    <file name="貼上的-svg-278x157.svg" crc="3840436450" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 278x157_poster_.png" crc="4143606973" ref="index"/>
+    <file name="貼上的-svg-494294x626.svg" crc="3876550569" seo="true" ref="index:hotdogman">
+      <caption webpage="index" alt=""/>
+      <caption webpage="hotdogman" alt=""/>
+    </file>
+    <file name="貼上的 svg 494294x626_poster_.png" crc="191141571" ref="index"/>
+    <file name="貼上的-svg-542182x98.svg" crc="4179891055" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 542182x98_poster_.png" crc="46247579" ref="index"/>
+    <file name="貼上的-svg-1399012x295.svg" crc="3945317396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 1399012x295_poster_.png" crc="4078677788" ref="index"/>
+    <file name="貼上的-svg-1352865x331.svg" crc="394852047" seo="true" ref="self-introduction">
+      <caption webpage="self-introduction" alt=""/>
+    </file>
+    <file name="貼上的 svg 1352865x331_poster_.png" crc="14755666" ref="self-introduction"/>
+    <file name="貼上的-svg-991415x274.svg" crc="4129937521" seo="true" ref="self-introduction">
+      <caption webpage="self-introduction" alt=""/>
+    </file>
+    <file name="貼上的 svg 991415x274_poster_.png" crc="288549953" ref="self-introduction"/>
+    <file name="dba71fda-8aff-43e8-9c0c-51cb2431b0db.jpg" crc="4052208269" seo="true" ref="self-introduction">
+      <caption webpage="self-introduction" alt=""/>
+    </file>
+    <file name="dba71fda-8aff-43e8-9c0c-51cb2431b0db_2x.jpg" crc="475106404" seo="true" ref="self-introduction">
+      <caption webpage="self-introduction" alt=""/>
+    </file>
+    <file name="79771a8f-7015-4536-9f67-3120566c8878-crop-u220.jpg" crc="101988867" seo="true" ref="self-introduction">
+      <caption webpage="self-introduction" alt=""/>
+    </file>
+    <file name="79771a8f-7015-4536-9f67-3120566c8878-crop-u220_2x.jpg" crc="4050805527" seo="true" ref="self-introduction">
+      <caption webpage="self-introduction" alt=""/>
+    </file>
+    <file name="ba7cd6c9-e46e-48d2-bb6a-64ce5dd374aa-crop-u235.jpg" crc="4119960548" seo="true" ref="self-introduction">
+      <caption webpage="self-introduction" alt=""/>
+    </file>
+    <file name="ba7cd6c9-e46e-48d2-bb6a-64ce5dd374aa-crop-u235_2x.jpg" crc="4217660623" seo="true" ref="self-introduction">
+      <caption webpage="self-introduction" alt=""/>
+    </file>
+    <file name="3b522bfb-8e14-45b3-b8af-f0b49ad4e07b.jpg" crc="259211106" seo="true" ref="self-introduction">
+      <caption webpage="self-introduction" alt=""/>
+    </file>
+    <file name="3b522bfb-8e14-45b3-b8af-f0b49ad4e07b_2x.jpg" crc="472685261" seo="true" ref="self-introduction">
+      <caption webpage="self-introduction" alt=""/>
+    </file>
+    <file name="貼上的-svg-946535x285.svg" crc="260914151" seo="true" ref="self-introduction">
+      <caption webpage="self-introduction" alt=""/>
+    </file>
+    <file name="貼上的 svg 946535x285_poster_.png" crc="468387027" ref="self-introduction"/>
+    <file name="貼上的-svg-1277287x84.svg" crc="308388627" seo="true" ref="self-introduction">
+      <caption webpage="self-introduction" alt=""/>
+    </file>
+    <file name="貼上的 svg 1277287x84_poster_.png" crc="302043366" ref="self-introduction"/>
+    <file name="貼上的-svg-366526x366.svg" crc="4093572504" seo="true" ref="self-introduction">
+      <caption webpage="self-introduction" alt=""/>
+    </file>
+    <file name="貼上的 svg 366526x366_poster_.png" crc="3892867737" ref="self-introduction"/>
+    <file name="貼上的-svg-501297x58.svg" crc="84899902" seo="true" ref="self-introduction">
+      <caption webpage="self-introduction" alt=""/>
+    </file>
+    <file name="貼上的 svg 501297x58_poster_.png" crc="3892780050" ref="self-introduction"/>
+    <file name="貼上的-svg-1155289x167.svg" crc="4196810003" seo="true" ref="hotdogman:hotdogman2">
+      <caption webpage="hotdogman" alt=""/>
+      <caption webpage="hotdogman2" alt=""/>
+    </file>
+    <file name="貼上的 svg 1155289x167_poster_.png" crc="4260347847" ref="hotdogman"/>
+    <file name="貼上的-svg-984825x696.svg" crc="3913019744" seo="true" ref="hotdogman:hotdogman2">
+      <caption webpage="hotdogman" alt=""/>
+      <caption webpage="hotdogman2" alt=""/>
+    </file>
+    <file name="貼上的 svg 984825x696_poster_.png" crc="134496050" ref="hotdogman"/>
+    <file name="貼上的-svg-874886x903.svg" crc="198296493" seo="true" ref="hotdogman">
+      <caption webpage="hotdogman" alt=""/>
+    </file>
+    <file name="貼上的 svg 874886x903_poster_.png" crc="427445862" ref="hotdogman"/>
+    <file name="貼上的-svg-346251x386.svg" crc="225555263" seo="true" ref="hotdogman">
+      <caption webpage="hotdogman" alt=""/>
+    </file>
+    <file name="貼上的 svg 346251x386_poster_.png" crc="235790059" ref="hotdogman"/>
+    <file name="貼上的-svg-388x388.svg" crc="4272148128" seo="true" ref="hotdogman">
+      <caption webpage="hotdogman" alt=""/>
+    </file>
+    <file name="貼上的 svg 388x388_poster_.png" crc="4036758052" ref="hotdogman"/>
+    <file name="貼上的-svg-388x3882.svg" crc="22979706" seo="true" ref="hotdogman">
+      <caption webpage="hotdogman" alt=""/>
+    </file>
+    <file name="貼上的 svg 388x388_poster_2.png" crc="3997313238" ref="hotdogman"/>
+    <file name="貼上的-svg-388x3883.svg" crc="3763426007" seo="true" ref="hotdogman">
+      <caption webpage="hotdogman" alt=""/>
+    </file>
+    <file name="貼上的 svg 388x388_poster_3.png" crc="456925663" ref="hotdogman"/>
+    <file name="貼上的-svg-388x3884.svg" crc="361679104" seo="true" ref="hotdogman">
+      <caption webpage="hotdogman" alt=""/>
+    </file>
+    <file name="貼上的 svg 388x388_poster_4.png" crc="40231741" ref="hotdogman"/>
+    <file name="貼上的-svg-388x3885.svg" crc="4236264680" seo="true" ref="hotdogman">
+      <caption webpage="hotdogman" alt=""/>
+    </file>
+    <file name="貼上的 svg 388x388_poster_5.png" crc="340430925" ref="hotdogman"/>
+    <file name="貼上的-svg-388x3886.svg" crc="4102291134" seo="true" ref="hotdogman">
+      <caption webpage="hotdogman" alt=""/>
+    </file>
+    <file name="貼上的 svg 388x388_poster_6.png" crc="3806614319" ref="hotdogman"/>
+    <file name="貼上的-svg-1345512x97.svg" crc="3886211418" seo="true" ref="hotdogman">
+      <caption webpage="hotdogman" alt=""/>
+    </file>
+    <file name="貼上的 svg 1345512x97_poster_.png" crc="131518816" ref="hotdogman"/>
+    <file name="貼上的-svg-166075x153.svg" crc="3873532518" seo="true" ref="hotdogman">
+      <caption webpage="hotdogman" alt=""/>
+    </file>
+    <file name="貼上的 svg 166075x153_poster_.png" crc="4289833563" ref="hotdogman"/>
+    <file name="貼上的-svg-668x182.svg" crc="255890109" seo="true" ref="kidnap">
+      <caption webpage="kidnap" alt=""/>
+    </file>
+    <file name="貼上的 svg 668x182_poster_.png" crc="350906661" ref="kidnap"/>
+    <file name="貼上的-svg-366526x3662.svg" crc="4093572504" seo="true" ref="kidnap">
+      <caption webpage="kidnap" alt=""/>
+    </file>
+    <file name="貼上的 svg 366526x366_poster_2.png" crc="4256745252" ref="kidnap"/>
+    <file name="貼上的-svg-1082702x180.svg" crc="15719121" seo="true" ref="kidnap">
+      <caption webpage="kidnap" alt=""/>
+    </file>
+    <file name="貼上的 svg 1082702x180_poster_.png" crc="112434366" ref="kidnap"/>
+    <file name="貼上的-svg-278234x1463.svg" crc="495512083" seo="true" ref="kidnap">
+      <caption webpage="kidnap" alt=""/>
+      <caption webpage="kidnap" alt=""/>
+    </file>
+    <file name="貼上的 svg 278234x1463_poster_.png" crc="4270917678" ref="kidnap"/>
+    <file name="hotdog_0.png" crc="367982992" seo="true" ref="kidnap">
+      <caption webpage="kidnap" alt=""/>
+    </file>
+    <file name="hotdog_0_2x.png" crc="367982992" seo="true" ref="kidnap">
+      <caption webpage="kidnap" alt=""/>
+    </file>
+    <file name="貼上的-svg-830044x98.svg" crc="4011824299" seo="true" ref="kidnap">
+      <caption webpage="kidnap" alt=""/>
+    </file>
+    <file name="貼上的 svg 830044x98_poster_.png" crc="379616582" ref="kidnap"/>
+    <file name="貼上的-svg-88325x150.svg" crc="487992245" seo="true" ref="hotdogman2">
+      <caption webpage="hotdogman2" alt=""/>
+    </file>
+    <file name="貼上的 svg 88325x150_poster_.png" crc="4136821372" ref="hotdogman2"/>
+    <file name="貼上的-svg-574665x82.svg" crc="153859402" seo="true" ref="hotdogman2">
+      <caption webpage="hotdogman2" alt=""/>
+    </file>
+    <file name="貼上的 svg 574665x82_poster_.png" crc="3912767447" ref="hotdogman2"/>
+    <file name="貼上的-svg-111919x167.svg" crc="3988243243" seo="true" ref="hotdogman2">
+      <caption webpage="hotdogman2" alt=""/>
+    </file>
+    <file name="貼上的 svg 111919x167_poster_.png" crc="241138163" ref="hotdogman2"/>
+    <file name="貼上的-svg-31341x125.svg" crc="473139124" seo="true" ref="hotdogman2">
+      <caption webpage="hotdogman2" alt=""/>
+    </file>
+    <file name="貼上的 svg 31341x125_poster_.png" crc="398372847" ref="hotdogman2"/>
+    <file name="貼上的-svg-885378x1015.svg" crc="157539628" seo="true" ref="hotdogman2">
+      <caption webpage="hotdogman2" alt=""/>
+    </file>
+    <file name="貼上的 svg 885378x1015_poster_.png" crc="3821004638" ref="hotdogman2"/>
+  </folder>
+  <file name="index.html" crc="180876895" seo="true" mt="1611228317746" redirect="true"/>
+  <file name="self-introduction.html" crc="163490511" seo="true" mt="1611225890341" redirect="true"/>
+  <file name="hotdogman.html" crc="4183596477" seo="true" mt="1611245684081" redirect="true"/>
+  <file name="kidnap.html" crc="4025342460" seo="true" mt="1611226337150" redirect="true"/>
+  <file name="hotdogman2.html" crc="4244821233" seo="true" mt="1611245871749" redirect="true"/>
+</manifest>
